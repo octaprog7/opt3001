@@ -1,0 +1,62 @@
+Manufacturer id: 0x5449; device id: 0x3001
+--------------------------------
+Настройка прерываний: окно X-Y люкс
+--------------------------------
+Пороги: (100.0, 500.0) lux
+--------------------------------
+Однократный режим работы! Запуск измерения вручную! Автоматический выбор предела измерения датчиком!
+--------------------------------
+cycle time мс: 103
+config_opt3001(RN=10, CT=False, M=1, OVF=False, CRF=False, FH=False, FL=True, L=True, POL=False, ME=False, FC=2)
+92.16 lux (FSR: 41932.80 lux)
+102.40 lux (FSR: 41932.80 lux)
+102.40 lux (FSR: 41932.80 lux)
+102.40 lux (FSR: 41932.80 lux)
+102.40 lux (FSR: 41932.80 lux)
+92.16 lux (FSR: 41932.80 lux)
+102.40 lux (FSR: 41932.80 lux)
+92.16 lux (FSR: 41932.80 lux)
+81.92 lux (FSR: 41932.80 lux)
+81.92 lux (FSR: 41932.80 lux)
+92.16 lux (FSR: 41932.80 lux)
+--------------------------------
+Автоматический запуск измерения! Автоматический выбор предела измерения датчиком!
+--------------------------------
+config_opt3001(RN=12, CT=True, M=3, OVF=False, CRF=False, FH=False, FL=False, L=True, POL=False, ME=False, FC=2)
+cycle time мс: 803; увеличенное время преобразования: True
+Данные не готовы для считывания!
+104.24 lux (FSR: 327.60 lux)
+103.60 lux (FSR: 163.80 lux)
+103.72 lux (FSR: 163.80 lux)
+103.60 lux (FSR: 163.80 lux)
+103.72 lux (FSR: 163.80 lux)
+103.72 lux (FSR: 163.80 lux)
+103.88 lux (FSR: 163.80 lux)
+103.92 lux (FSR: 163.80 lux)
+103.84 lux (FSR: 163.80 lux)
+104.04 lux (FSR: 163.80 lux)
+--------------------------------
+Ожидание прерываний на GPIO3...
+--------------------------------
+Поднесите/уберите источник света, чтобы выйти за пределы окна 50.0–350.08 lux
+IRQ handled: 1
+16.90 lux (FSR: 40.95 lux)
+IRQ handled: 2
+2.27 lux (FSR: 40.95 lux)
+IRQ handled: 3
+46.28 lux (FSR: 81.90 lux)
+IRQ handled: 4
+10.94 lux (FSR: 81.90 lux)
+IRQ handled: 5
+1.87 lux (FSR: 40.95 lux)
+IRQ handled: 6
+620.00 lux (FSR: 655.20 lux)
+IRQ handled: 7
+903.04 lux (FSR: 2620.80 lux)
+IRQ handled: 8
+1860.48 lux (FSR: 2620.80 lux)
+IRQ handled: 9
+1420.80 lux (FSR: 2620.80 lux)
+IRQ handled: 10
+4940.80 lux (FSR: 10483.20 lux)
+IRQ handled: 11
